@@ -1,7 +1,7 @@
 import telegram
 import telegram
 
-bot = telegram.Bot(token='2142626831:AAEDp8Yv48WwFXkc1wkwLA5r8AloBEs_Hxc')
+bot = telegram.Bot(token='input tokent value')
 chat_id = -692460691
 
 bot.send_message(chat_id=chat_id,text="Let's get started!")
